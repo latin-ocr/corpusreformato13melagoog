@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./corpusreformato13melagoog_0202.png"; bbox 0 0 4682 5826; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 270 1985 1905 2186">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 270 1985 1905 2186">
+     <span class='ocr_line' id='line_1_1' title="bbox 270 1985 1905 2186; baseline 0.001 -5"><span class='ocrx_word' id='word_1_1' title='bbox 270 1985 1093 2186; x_wconf 67' lang='lat' dir='ltr'><strong>morosmowns</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1178 2059 1905 2183; x_wconf 69' lang='lat' dir='ltr'><strong>mmmfloms</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 125 2303 2250 2513">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 125 2303 2250 2513">
+     <span class='ocr_line' id='line_1_2' title="bbox 125 2303 2250 2513; baseline -0.001 -63"><span class='ocrx_word' id='word_1_3' title='bbox 125 2375 188 2453; x_wconf 78' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 228 2373 418 2468; x_wconf 77' lang='lat' dir='ltr'><strong>Qumus</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 457 2373 514 2454; x_wconf 83' lang='grc' dir='ltr'><strong>ΙΝ</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 552 2371 826 2456; x_wconf 73' lang='grc' dir='ltr'><strong>ΑΟΑΒΕΜΙΑ</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 865 2371 1263 2458; x_wconf 69' lang='lat' dir='ltr'><strong>wlmmenusl</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1297 2371 1515 2458; x_wconf 76' lang='lat' dir='ltr'><strong>PUBLIGE</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1554 2367 1893 2498; x_wconf 71' lang='lat' dir='ltr'><strong>msl‘umwn</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1933 2303 2045 2453; x_wconf 59' lang='lat' dir='ltr'><strong>fiST.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 2241 2497 2250 2513; x_wconf 17' lang='grc' dir='ltr'>ἢ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2346 5826">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2346 5826">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 2346 5826; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 2346 5826; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
